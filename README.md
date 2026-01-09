@@ -53,6 +53,6 @@ This backend allows an operator to:
 ### 1. Clone the repository
 
 ```bash
-git clone git clone https://github.com/jesss007/dooh-ad-manager.git
+git clone https://github.com/jesss007/dooh-ad-manager.git
 cd dooh-ad-manager
 
